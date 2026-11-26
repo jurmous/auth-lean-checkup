@@ -19,3 +19,7 @@ lean -t 0 -DwarningAsError=true formeel/Pilot.lean
 ```
 
 Gecontroleerd met Lean 4.19.0 op macOS arm64. De review beschrijft welke controles het model abstraheert en welke conclusies daarvan afhangen.
+
+## Licentie
+
+De eigen code en documentatie vallen onder de [MIT-licentie](LICENSE).
